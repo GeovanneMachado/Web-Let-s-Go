@@ -1,0 +1,86 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 20px !important;
+    text-align: center !important;
+    background-color: #f4f4f4 !important;
+
+}
+
+header{
+    background-color:black !important;
+    color: white !important;
+    font-size: 24px !important;
+    padding: 0.2em !important;
+}
+
+nav{
+    background-color:aqua !important;
+    padding: 0.5em !important;
+}
+
+nav a{
+    color: black !important;
+    padding: 0.5em !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+    margin: 0.5em !important;
+}
+
+nav a:hover{
+    background-color: rgba(23, 144, 192, 0.274) !important;
+    border-radius: 10px !important;
+
+}
+
+.Colors{
+    background-color: white !important;
+    justify-content: space-around !important;
+    display: flex !important;
+
+}
+
+.green {
+    background-color: green !important;
+    color: white !important;
+    padding: 0.5em !important;
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 10% !important;
+}
+
+.blue {
+    background-color: blue !important;
+    color: white !important;
+    padding: 0.5em !important;
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 10% !important;
+}
+
+.red {
+    background-color: red !important;
+    color: white !important;
+    padding: 0.5em !important;
+    width:100px !important;
+    height: 100px !important;
+    border-radius: 10% !important;
+}
+
+main{
+    background-color: white !important;
+    max-width: 50em !important;
+    margin: auto !important;
+    padding: 2em !important;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    border-radius: 1em !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.623) !important;
+}
+
+footer{
+    background-color: black !important;
+    color: white !important;
+    padding: 0.8em !important;
+}
